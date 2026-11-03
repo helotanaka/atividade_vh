@@ -1,0 +1,7 @@
+transformers
+torch
+tiktoken
+numpy
+tqdm
+requests
+datasets
